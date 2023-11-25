@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ti"
+                 name="Tutorial Instance"
+                 start-page="tutorial-instance.md">
+
+    <toc-element topic="Example-Topic.md">
+        <toc-element topic="Child-Topic.md"/>
+    </toc-element>
+    <toc-element topic="tutorial-instance.md">
+        <toc-element topic="apisvr-dm.md"/>
+    </toc-element>
+</instance-profile>
